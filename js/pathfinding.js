@@ -182,7 +182,7 @@ a_star = () => {
                 }
             }
         } else {
-            alert('Camino no encontraro!!');
+            alert('Camino no encontrado!!');
             finished = true;
         }
     }
